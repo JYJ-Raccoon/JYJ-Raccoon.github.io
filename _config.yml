@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "라쿤 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JYJ-Raccoon"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "조영진"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "훌륭한 사람"
+  location         : "서울"
+  email            : "zammanbou0825@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
